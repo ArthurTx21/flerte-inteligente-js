@@ -1,0 +1,14 @@
+body{
+    background-color: #8b0000;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    text-align: center;
+}
+button{
+    border-radius: 15px;
+    font-size: 40px;
+    border-color: aliceblue;
+    color: #8b0000;
+}
